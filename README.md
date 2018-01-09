@@ -1,1 +1,1 @@
-# COBOL-Condition-Names
+An example program demonstrating the use of Condition Names.
